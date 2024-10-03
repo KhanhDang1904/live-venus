@@ -11,7 +11,7 @@
         <!-- Page Title -->
         <div class="mb-4">
             <h2 class="h1 mb-0 text-capitalize d-flex align-items-center gap-2">
-                <img src="{{asset('/public/assets/back-end/img/add-new-seller.png')}}" alt="">
+                <img src="{{asset('/assets/back-end/img/add-new-seller.png')}}" alt="">
                 {{\App\CPU\translate('seller_list')}}
                 <span class="badge badge-soft-dark radius-50 fz-12">{{ $sellers->total() }}</span>
             </h2>
@@ -74,8 +74,8 @@
                                         <div class="d-flex align-items-center gap-10 w-max-content">
                                             <img width="50"
                                             class="avatar rounded-circle"
-                                                onerror="this.src='{{asset('public/assets/back-end/img/400x400/img2.jpg')}}'"
-                                                src="{{asset('storage/app/public/shop')}}/{{$seller->shop->image}}"
+                                                onerror="this.src='{{asset('assets/back-end/img/400x400/img2.jpg')}}'"
+                                                src="{{asset('storage/shop')}}/{{$seller->shop->image}}"
                                                 alt="">
                                             <div>
                                                 <a class="title-color" href="{{ route('admin.sellers.view', ['id' => $seller->id]) }}">{{ \Str::limit($seller->shop->name, 20)}}</a>
@@ -142,7 +142,7 @@
 
                     @if(count($sellers)==0)
                         <div class="text-center p-4">
-                            <img class="mb-3 w-160" src="{{asset('public/assets/back-end')}}/svg/illustrations/sorry.svg" alt="Image Description">
+                            <img class="mb-3 w-160" src="{{asset('assets/back-end')}}/svg/illustrations/sorry.svg" alt="Image Description">
                             <p class="mb-0">{{\App\CPU\translate('No data to show')}}</p>
                         </div>
                     @endif

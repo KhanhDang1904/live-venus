@@ -3,8 +3,8 @@
 @section('title', \App\CPU\translate('product_add'))
 
 @push('css_or_js')
-    <link href="{{ asset('public/assets/back-end/css/tags-input.min.css') }}" rel="stylesheet">
-    <link href="{{ asset('public/assets/select2/css/select2.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/back-end/css/tags-input.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('assets/select2/css/select2.min.css') }}" rel="stylesheet">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 @endpush
 
@@ -12,7 +12,7 @@
     <div class="content container-fluid">
         <div class="d-flex flex-wrap gap-2 align-items-center mb-3">
             <h2 class="h1 mb-0">
-                <img src="http://localhost/6valley/public/assets/back-end/img/all-orders.png" class="mb-1 mr-1" alt="">
+                <img src="http://localhost/6valley/assets/back-end/img/all-orders.png" class="mb-1 mr-1" alt="">
                 {{ \App\CPU\translate('Add_new_product') }}
             </h2>
         </div>
@@ -406,9 +406,9 @@
 @endsection
 
 @push('script')
-    <script src="{{ asset('public/assets/back-end') }}/js/tags-input.min.js"></script>
-    <script src="{{ asset('public/assets/select2/js/select2.min.js') }}"></script>
-    <script src="{{ asset('public/assets/back-end/js/spartan-multi-image-picker.js') }}"></script>
+    <script src="{{ asset('assets/back-end') }}/js/tags-input.min.js"></script>
+    <script src="{{ asset('assets/select2/js/select2.min.js') }}"></script>
+    <script src="{{ asset('assets/back-end/js/spartan-multi-image-picker.js') }}"></script>
     <script>
         $(function() {
             $('#color_switcher').click(function(){
@@ -427,7 +427,7 @@
                 groupClassName: 'col-6 col-lg-4 col-xl-3',
                 maxFileSize: '',
                 placeholderImage: {
-                    image: '{{ asset('public/assets/back-end/img/400x400/img2.jpg') }}',
+                    image: '{{ asset('assets/back-end/img/400x400/img2.jpg') }}',
                     width: '100%',
                 },
                 dropFileLabel: "Drop Here",
@@ -462,7 +462,7 @@
                 groupClassName: 'col-6 col-md-12 col-lg-8 col-xl-6',
                 maxFileSize: '',
                 placeholderImage: {
-                    image: '{{ asset('public/assets/back-end/img/400x400/img2.jpg') }}',
+                    image: '{{ asset('assets/back-end/img/400x400/img2.jpg') }}',
                     width: '100%',
                 },
                 dropFileLabel: "Drop Here",
@@ -497,7 +497,7 @@
                 groupClassName: '',
                 maxFileSize: '',
                 placeholderImage: {
-                    image: '{{ asset('public/assets/back-end/img/400x400/img2.jpg') }}',
+                    image: '{{ asset('assets/back-end/img/400x400/img2.jpg') }}',
                     width: '100%',
                 },
                 dropFileLabel: "Drop Here",
@@ -603,7 +603,7 @@
                                 <i class="tio-edit"></i>
                                     <input type="file" name="`+color+`" id="`+value_id+`" class="d-none" accept=".jpg, .png, .jpeg, .gif, .bmp, .tif, .tiff|image/*" required="">
                                 </span>
-                                <img src="{{ asset('public/assets/back-end/img/400x400/img2.jpg') }}" style="object-fit: cover;aspect-ratio:1"  alt="public/img">
+                                <img src="{{ asset('assets/back-end/img/400x400/img2.jpg') }}" style="object-fit: cover;aspect-ratio:1"  alt="public/img">
                               </label> </div>`;
                 $('#color_wise_image').append(html)
 

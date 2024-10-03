@@ -10,7 +10,7 @@
             <!-- Page Title -->
             <div class="">
                 <h2 class="h1 mb-0 text-capitalize d-flex align-items-center gap-2">
-                    <img width="20" src="{{asset('/public/assets/back-end/img/refund-request-list.png')}}" alt="">
+                    <img width="20" src="{{asset('/assets/back-end/img/refund-request-list.png')}}" alt="">
                     {{\App\CPU\translate('refund_request_list')}}
                     <span class="badge badge-soft-dark radius-50">{{$refund_list->total()}}</span>
                 </h2>
@@ -85,7 +85,7 @@
                             @if ($refund->product!=null)
                                 <div class="d-flex flex-wrap gap-2">
                                     <a href="{{route('seller.product.view',[$refund->product->id])}}">
-                                        <img onerror="this.src='{{asset('/public/assets/back-end/img/brand-logo.png')}}'"
+                                        <img onerror="this.src='{{asset('/assets/back-end/img/brand-logo.png')}}'"
                                              src="{{\App\CPU\ProductManager::product_image_path('thumbnail')}}/{{ $refund->product->thumbnail }}"
                                              class="avatar border" alt="">
                                     </a>
@@ -147,7 +147,7 @@
 
         @if(count($refund_list)==0)
             <div class="text-center p-4">
-                <img class="mb-3 __w-7rem" src="{{asset('public/assets/back-end')}}/svg/illustrations/sorry.svg" alt="Image Description">
+                <img class="mb-3 __w-7rem" src="{{asset('assets/back-end')}}/svg/illustrations/sorry.svg" alt="Image Description">
                 <p class="mb-0">{{ \App\CPU\translate('No_data_to_show')}}</p>
             </div>
         @endif

@@ -3641,4 +3641,5 @@
   'Website_Color' => 'Website Color',
   'Application System' => 'Application System',
   'We are sorry  server is not responding' => 'We are sorry  server is not responding',
+  'search_by_brands' => 'Search by brands',
 );

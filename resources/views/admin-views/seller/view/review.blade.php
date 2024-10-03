@@ -7,7 +7,7 @@
         <!-- Page Title -->
         <div class="mb-3">
             <h2 class="h1 mb-0 text-capitalize d-flex gap-2 align-items-center">
-                <img src="{{asset('/public/assets/back-end/img/coupon_setup.png')}}" alt="">
+                <img src="{{asset('/assets/back-end/img/coupon_setup.png')}}" alt="">
                 {{\App\CPU\translate('Review_list')}}
             </h2>
         </div>
@@ -159,10 +159,10 @@
                                                 </p>
                                                 @if($review->attachment)
                                                     @foreach (json_decode($review->attachment) as $img)
-                                                        <a href="{{asset('storage/app/public/review')}}/{{$img}}"
+                                                        <a href="{{asset('storage/review')}}/{{$img}}"
                                                            data-lightbox="mygallery">
                                                             <img class="p-1" width="60" height="60"
-                                                                 src="{{asset('storage/app/public/review')}}/{{$img}}"
+                                                                 src="{{asset('storage/review')}}/{{$img}}"
                                                                  alt="">
                                                         </a>
                                                     @endforeach
@@ -192,7 +192,7 @@
                         @if(count($reviews)==0)
                             <div class="text-center p-4">
                                 <img class="mb-3 w-160"
-                                     src="{{asset('public/assets/back-end')}}/svg/illustrations/sorry.svg"
+                                     src="{{asset('assets/back-end')}}/svg/illustrations/sorry.svg"
                                      alt="Image Description">
                                 <p class="mb-0">{{ \App\CPU\translate('No_data_to_show')}}</p>
                             </div>
