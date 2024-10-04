@@ -59,8 +59,8 @@ class ConfigController extends Controller
         $admin_shipping = ShippingType::where('seller_id',0)->first();
         $shipping_type = isset($admin_shipping)==true?$admin_shipping->shipping_type:'order_wise';
 
-        $company_logo = asset("storage/company/").'/'.BusinessSetting::where(['type'=>'company_web_logo'])->first()->value;
-        $footer_logo = asset("storage/company/").'/'.BusinessSetting::where(['type'=>'company_footer_logo'])->first()->value;
+        $company_logo = asset("storage/app/public/company/").'/'.BusinessSetting::where(['type'=>'company_web_logo'])->first()->value;
+        $footer_logo = asset("storage/app/public/company/").'/'.BusinessSetting::where(['type'=>'company_footer_logo'])->first()->value;
         $android = BusinessSetting::where(['type'=>'download_app_google_stroe'])->first()->value;
         $android = json_decode($android)->link;
 
@@ -89,17 +89,17 @@ class ConfigController extends Controller
             'base_urls' => [
                 'product_image_url' => ProductManager::product_image_path('product'),
                 'product_thumbnail_url' => ProductManager::product_image_path('thumbnail'),
-                'digital_product_url' => asset('storage/product/digital-product'),
-                'brand_image_url' => asset('storage/brand'),
-                'customer_image_url' => asset('storage/profile'),
-                'banner_image_url' => asset('storage/banner'),
-                'category_image_url' => asset('storage/category'),
+                'digital_product_url' => asset('storage/app/public/product/digital-product'),
+                'brand_image_url' => asset('storage/app/public/brand'),
+                'customer_image_url' => asset('storage/app/public/profile'),
+                'banner_image_url' => asset('storage/app/public/banner'),
+                'category_image_url' => asset('storage/app/public/category'),
                 'review_image_url' => asset('storage/app/public'),
-                'seller_image_url' => asset('storage/seller'),
-                'shop_image_url' => asset('storage/shop'),
-                'notification_image_url' => asset('storage/notification'),
-                'delivery_man_image_url' => asset('storage/delivery-man'),
-                'flag_image_url' => asset('assets/front-end/img/flags'),
+                'seller_image_url' => asset('storage/app/public/seller'),
+                'shop_image_url' => asset('storage/app/public/shop'),
+                'notification_image_url' => asset('storage/app/public/notification'),
+                'delivery_man_image_url' => asset('storage/app/public/delivery-man'),
+                'flag_image_url' => asset('public/assets/front-end/img/flags'),
             ],
             'static_urls' => [
                 'contact_us' => route('contacts'),

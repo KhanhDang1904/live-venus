@@ -1,650 +1,752 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
-        <loc>http://localhost/6valley</loc>
-        <lastmod>2022-08-27T09:40:36+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia</loc>
+        <lastmod>2024-09-03T07:55:31+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/</loc>
-        <lastmod>2022-08-27T09:40:42+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/about-us</loc>
+        <lastmod>2024-09-03T07:55:44+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/about-us</loc>
-        <lastmod>2022-08-27T09:41:09+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/account-address</loc>
+        <lastmod>2024-09-03T07:55:47+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/account-address</loc>
-        <lastmod>2022-08-27T09:41:25+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/account-oder</loc>
+        <lastmod>2024-09-03T07:55:47+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/account-oder</loc>
-        <lastmod>2022-08-27T09:41:25+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/account-tickets</loc>
+        <lastmod>2024-09-03T07:55:48+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/account-tickets</loc>
-        <lastmod>2022-08-27T09:41:25+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/brands</loc>
+        <lastmod>2024-09-03T07:55:41+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/brands</loc>
-        <lastmod>2022-08-27T09:40:54+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/cancellation-policy</loc>
+        <lastmod>2024-09-03T07:55:46+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/categories</loc>
-        <lastmod>2022-08-27T09:40:46+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/categories</loc>
+        <lastmod>2024-09-03T07:55:36+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/chat-with-seller</loc>
-        <lastmod>2022-08-27T09:41:24+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/chat/delivery-man</loc>
+        <lastmod>2024-09-03T07:55:48+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/contacts</loc>
-        <lastmod>2022-08-27T09:41:09+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/chat/facebook.com</loc>
+        <lastmod>2024-09-03T07:55:48+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/customer/auth/login</loc>
-        <lastmod>2022-08-27T09:40:46+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/chat/seller</loc>
+        <lastmod>2024-09-03T07:55:47+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/customer/auth/login/facebook</loc>
-        <lastmod>2022-08-27T09:41:11+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/contacts</loc>
+        <lastmod>2024-09-03T07:55:44+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/customer/auth/login/google</loc>
-        <lastmod>2022-08-27T09:41:11+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/customer/auth/login</loc>
+        <lastmod>2024-09-03T07:55:36+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/customer/auth/recover-password</loc>
-        <lastmod>2022-08-27T09:41:13+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/customer/auth/recover-password</loc>
+        <lastmod>2024-09-03T07:55:46+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/customer/auth/sign-up</loc>
-        <lastmod>2022-08-27T09:40:46+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/customer/auth/sign-up</loc>
+        <lastmod>2024-09-03T07:55:36+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/helpTopic</loc>
-        <lastmod>2022-08-27T09:41:10+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/helpTopic</loc>
+        <lastmod>2024-09-03T07:55:45+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/lang/bd</loc>
-        <lastmod>2022-08-27T09:40:43+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/lang/en</loc>
+        <lastmod>2024-09-03T07:55:35+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/lang/en</loc>
-        <lastmod>2022-08-27T09:40:43+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/privacy-policy</loc>
+        <lastmod>2024-09-03T07:55:46+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/lang/sa</loc>
-        <lastmod>2022-08-27T09:40:43+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/product/ao-sweater-cuna-ao-sweater-nam-nu-form-rong-chat-cotton-ni-ngoai-hang-xuat-cao-cap-tron-co-tron-dai-tay-local-brand-SeD0</loc>
+        <lastmod>2024-09-03T07:55:42+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/privacy-policy</loc>
-        <lastmod>2022-08-27T09:41:11+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/product/chai-xit-khu-mui-giay-dep-nano-bac-mua-5-chai-xit-tang-1-tui-dung-giayxit-khu-mui-hoi-chan-nano-2024-ba1994-WZ8RyE</loc>
+        <lastmod>2024-09-03T07:55:43+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/abc-537fnn</loc>
-        <lastmod>2022-08-27T09:41:04+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/product/do-si-tai-nghe-bluetooth-nhet-tai-khong-day-pin-khoe-am-thanh-lon-ho-tro-tap-the-thao-lam-viec-18tfe0</loc>
+        <lastmod>2024-09-03T07:55:43+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/demo-product-1-DuHk4E</loc>
-        <lastmod>2022-08-27T09:41:00+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/product/facebook.com</loc>
+        <lastmod>2024-09-03T07:55:47+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/name-test-RHdeH2</loc>
-        <lastmod>2022-08-27T09:41:00+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/product/hop-dung-ban-chai-danh-rang-tien-dung-mang-di-du-lich-cam-trai-QaGOBj</loc>
+        <lastmod>2024-09-03T07:55:43+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/one-product-xw4ewt</loc>
-        <lastmod>2022-08-27T09:41:05+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/product/may-hut-bui-giuong-nem-diet-khuan-uv-the-he-moi-jetzt-series-j7-I7LuzK</loc>
+        <lastmod>2024-09-03T07:55:42+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/product-111-s6WUwV</loc>
-        <lastmod>2022-08-27T09:41:06+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/product/quan-dui-ong-rong-cuna-quan-dai-nam-nu-chat-linen-cao-cap-ong-suong-rong-mac-nha-di-choi-che-khuyet-diem-hack-dang-4-mua</loc>
+        <lastmod>2024-09-03T07:55:42+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/product-123-6fJ1ft</loc>
-        <lastmod>2022-08-27T09:40:59+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/product/quat-tan-nhiet-mini-bluewow-dy08-thong-dung-ho-tro-choi-game-tren-dien-thoai-thich-hop-cho-i-phone-samsung-xiaomi-qnpgPh</loc>
+        <lastmod>2024-09-03T07:55:43+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/product-2222-SSEu8A</loc>
-        <lastmod>2022-08-27T09:41:05+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/product/tai-nghe-chup-tai-bluetooth-y08-tai-khong-day-co-mic-co-the-nho-am-bass-cuc-chat-nghe-nhac-cuc-hay-bao-hanh-1-nam-igvyUZ</loc>
+        <lastmod>2024-09-03T07:55:43+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/qwert-fE6lRA</loc>
-        <lastmod>2022-08-27T09:41:09+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?data_from=best-selling&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:44+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/seller-product-1-0uDHID</loc>
-        <lastmod>2022-08-27T09:41:03+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?data_from=featured&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:45+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/seller-product-for-brand-test-v4fGOM</loc>
-        <lastmod>2022-08-27T09:40:59+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?data_from=latest</loc>
+        <lastmod>2024-09-03T07:55:43+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/seller-products-minimum-order-quantity-test-V5chcU</loc>
-        <lastmod>2022-08-27T09:41:03+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?data_from=latest&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:46+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/subrtex-1-piece-knit-jacquard-spandex-stretch-sofa-milky-0uKU4j</loc>
-        <lastmod>2022-08-27T09:41:01+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?data_from=top-rated&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:44+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/test-1-6ZII8j</loc>
-        <lastmod>2022-08-27T09:41:08+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=1&amp;data_from=brand&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:40+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/test-1-DcD1hE</loc>
-        <lastmod>2022-08-27T09:40:59+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=1&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:37+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/test-1-ujoAgo</loc>
-        <lastmod>2022-08-27T09:41:07+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=10&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:39+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/test-10-LQArPe</loc>
-        <lastmod>2022-08-27T09:40:58+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=2&amp;data_from=brand&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:40+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/test-12345-nSKEoY</loc>
-        <lastmod>2022-08-27T09:41:13+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=2&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:37+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/test-for-minimum-order-limit-Y0LAvj</loc>
-        <lastmod>2022-08-27T09:41:04+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=3&amp;data_from=brand&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:40+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/test-h838V9</loc>
-        <lastmod>2022-08-27T09:40:59+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=3&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:37+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/test-seller-product-abc-3gJ75p</loc>
-        <lastmod>2022-08-27T09:41:02+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=4&amp;data_from=brand&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:40+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/two-product-CjlqsV</loc>
-        <lastmod>2022-08-27T09:41:04+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=4&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:37+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/product/unique-code-1-zZlLR7</loc>
-        <lastmod>2022-08-27T09:41:00+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=5&amp;data_from=brand&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:39+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?data_from=best-selling&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:05+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=5&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:38+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?data_from=discounted&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:56+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=6&amp;data_from=brand&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:39+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?data_from=discounted&amp;page_no=1&amp;page=2</loc>
-        <lastmod>2022-08-27T09:41:13+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=6&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:38+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?data_from=discounted&amp;page_no=2&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:24+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=7&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:39+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?data_from=featured&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:11+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=8&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:38+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?data_from=latest</loc>
-        <lastmod>2022-08-27T09:41:04+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/products?id=9&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:39+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?data_from=latest&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:12+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/refund-policy</loc>
+        <lastmod>2024-09-03T07:55:45+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?data_from=latest&amp;page=2</loc>
-        <lastmod>2022-08-27T09:41:14+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/return-policy</loc>
+        <lastmod>2024-09-03T07:55:45+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?data_from=latest&amp;page_no=1&amp;page=2</loc>
-        <lastmod>2022-08-27T09:41:19+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/seller/auth/forgot-password</loc>
+        <lastmod>2024-09-03T07:55:46+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?data_from=latest&amp;page_no=2&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:23+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/seller/auth/login</loc>
+        <lastmod>2024-09-03T07:55:41+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?data_from=top-rated&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:07+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/sellers</loc>
+        <lastmod>2024-09-03T07:55:41+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=1&amp;data_from=brand&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:55+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/shop-cart</loc>
+        <lastmod>2024-09-03T07:55:35+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=11&amp;data_from=brand&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:54+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/shop/apply</loc>
+        <lastmod>2024-09-03T07:55:41+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=11&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:09+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/shopView/0</loc>
+        <lastmod>2024-09-03T07:55:47+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=12&amp;data_from=brand&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:52+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/shopView/1</loc>
+        <lastmod>2024-09-03T07:55:43+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=12&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:09+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/shopView/facebook.com</loc>
+        <lastmod>2024-09-03T07:55:46+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=13&amp;data_from=brand&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:52+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/terms</loc>
+        <lastmod>2024-09-03T07:55:46+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=13&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:08+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/track-order</loc>
+        <lastmod>2024-09-03T07:55:45+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=14&amp;data_from=brand&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:51+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/user-account</loc>
+        <lastmod>2024-09-03T07:55:47+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=14&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:22+06:00</lastmod>
+        <loc>http://ecommece.khanhdv.asia/wishlists</loc>
+        <lastmod>2024-09-03T07:55:35+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=15&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:08+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia</loc>
+        <lastmod>2024-09-03T07:55:25+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=16&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:50+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/</loc>
+        <lastmod>2024-09-03T07:55:23+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=17&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:21+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/about-us</loc>
+        <lastmod>2024-09-03T07:55:32+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=18&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:20+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/account-address</loc>
+        <lastmod>2024-09-03T07:55:48+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=19&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:17+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/account-oder</loc>
+        <lastmod>2024-09-03T07:55:47+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=20&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:17+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/account-tickets</loc>
+        <lastmod>2024-09-03T07:55:48+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=21&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:19+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/brands</loc>
+        <lastmod>2024-09-03T07:55:29+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=22&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:18+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/cancellation-policy</loc>
+        <lastmod>2024-09-03T07:55:34+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=24&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:23+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/categories</loc>
+        <lastmod>2024-09-03T07:55:25+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=25&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:50+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/chat/delivery-man</loc>
+        <lastmod>2024-09-03T07:55:48+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=26&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:50+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/chat/facebook.com</loc>
+        <lastmod>2024-09-03T07:55:48+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=27&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:48+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/chat/seller</loc>
+        <lastmod>2024-09-03T07:55:46+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=28&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:49+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/contacts</loc>
+        <lastmod>2024-09-03T07:55:32+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=31&amp;data_from=brand&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:52+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/customer/auth/login</loc>
+        <lastmod>2024-09-03T07:55:25+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=32&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:49+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/customer/auth/recover-password</loc>
+        <lastmod>2024-09-03T07:55:35+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=39&amp;data_from=brand&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:51+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/customer/auth/sign-up</loc>
+        <lastmod>2024-09-03T07:55:25+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=39&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:49+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/helpTopic</loc>
+        <lastmod>2024-09-03T07:55:32+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=41&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:19+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/lang/en</loc>
+        <lastmod>2024-09-03T07:55:23+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=42&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:47+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/privacy-policy</loc>
+        <lastmod>2024-09-03T07:55:34+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=43&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:47+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/product/ao-sweater-cuna-ao-sweater-nam-nu-form-rong-chat-cotton-ni-ngoai-hang-xuat-cao-cap-tron-co-tron-dai-tay-local-brand-SeD0</loc>
+        <lastmod>2024-09-03T07:55:30+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=44&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:48+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/product/chai-xit-khu-mui-giay-dep-nano-bac-mua-5-chai-xit-tang-1-tui-dung-giayxit-khu-mui-hoi-chan-nano-2024-ba1994-WZ8RyE</loc>
+        <lastmod>2024-09-03T07:55:31+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=45&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:47+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/product/do-si-tai-nghe-bluetooth-nhet-tai-khong-day-pin-khoe-am-thanh-lon-ho-tro-tap-the-thao-lam-viec-18tfe0</loc>
+        <lastmod>2024-09-03T07:55:30+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=46&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:20+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/product/facebook.com</loc>
+        <lastmod>2024-09-03T07:55:35+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=5&amp;data_from=brand&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:55+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/product/hop-dung-ban-chai-danh-rang-tien-dung-mang-di-du-lich-cam-trai-QaGOBj</loc>
+        <lastmod>2024-09-03T07:55:31+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=50&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:18+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/product/may-hut-bui-giuong-nem-diet-khuan-uv-the-he-moi-jetzt-series-j7-I7LuzK</loc>
+        <lastmod>2024-09-03T07:55:30+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=51&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:21+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/product/quan-dui-ong-rong-cuna-quan-dai-nam-nu-chat-linen-cao-cap-ong-suong-rong-mac-nha-di-choi-che-khuyet-diem-hack-dang-4-mua</loc>
+        <lastmod>2024-09-03T07:55:30+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=52&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:18+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/product/quat-tan-nhiet-mini-bluewow-dy08-thong-dung-ho-tro-choi-game-tren-dien-thoai-thich-hop-cho-i-phone-samsung-xiaomi-qnpgPh</loc>
+        <lastmod>2024-09-03T07:55:30+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=53&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:18+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/product/tai-nghe-chup-tai-bluetooth-y08-tai-khong-day-co-mic-co-the-nho-am-bass-cuc-chat-nghe-nhac-cuc-hay-bao-hanh-1-nam-igvyUZ</loc>
+        <lastmod>2024-09-03T07:55:31+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=54&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:22+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?data_from=best-selling&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:32+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=55&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:48+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?data_from=featured&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:33+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=56&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:22+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?data_from=latest</loc>
+        <lastmod>2024-09-03T07:55:31+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=57&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:21+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?data_from=latest&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:33+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=58&amp;data_from=category&amp;page=1</loc>
-        <lastmod>2022-08-27T09:41:19+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?data_from=top-rated&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:32+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=6&amp;data_from=brand&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:54+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=1&amp;data_from=brand&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:28+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=7&amp;data_from=brand&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:53+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=1&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:25+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/products?id=8&amp;data_from=brand&amp;page=1</loc>
-        <lastmod>2022-08-27T09:40:53+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=10&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:27+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/shop-cart</loc>
-        <lastmod>2022-08-27T09:40:45+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=2&amp;data_from=brand&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:28+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/shopView/0</loc>
-        <lastmod>2022-08-27T09:41:15+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=2&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:25+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/shopView/0?page=1</loc>
-        <lastmod>2022-08-27T09:41:25+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=3&amp;data_from=brand&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:27+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/shopView/0?page=2</loc>
-        <lastmod>2022-08-27T09:41:24+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=3&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:25+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/shopView/19</loc>
-        <lastmod>2022-08-27T09:41:12+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=4&amp;data_from=brand&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:27+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/shopView/20</loc>
-        <lastmod>2022-08-27T09:41:12+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=4&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:25+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/terms</loc>
-        <lastmod>2022-08-27T09:41:11+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=5&amp;data_from=brand&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:27+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/track-order</loc>
-        <lastmod>2022-08-27T09:41:11+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=5&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:26+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/user-account</loc>
-        <lastmod>2022-08-27T09:41:25+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=6&amp;data_from=brand&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:27+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://localhost/6valley/wishlists</loc>
-        <lastmod>2022-08-27T09:40:43+06:00</lastmod>
+        <loc>https://ecommece.khanhdv.asia/products?id=6&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:26+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/products?id=7&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:27+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/products?id=8&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:27+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/products?id=9&amp;data_from=category&amp;page=1</loc>
+        <lastmod>2024-09-03T07:55:27+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/refund-policy</loc>
+        <lastmod>2024-09-03T07:55:33+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/return-policy</loc>
+        <lastmod>2024-09-03T07:55:34+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/seller/auth/forgot-password</loc>
+        <lastmod>2024-09-03T07:55:34+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/seller/auth/login</loc>
+        <lastmod>2024-09-03T07:55:29+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/sellers</loc>
+        <lastmod>2024-09-03T07:55:29+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/shop-cart</loc>
+        <lastmod>2024-09-03T07:55:24+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/shop/apply</loc>
+        <lastmod>2024-09-03T07:55:29+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/shopView/0</loc>
+        <lastmod>2024-09-03T07:55:36+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/shopView/1</loc>
+        <lastmod>2024-09-03T07:55:32+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/shopView/facebook.com</loc>
+        <lastmod>2024-09-03T07:55:46+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/terms</loc>
+        <lastmod>2024-09-03T07:55:34+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/track-order</loc>
+        <lastmod>2024-09-03T07:55:33+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/user-account</loc>
+        <lastmod>2024-09-03T07:55:48+06:00</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ecommece.khanhdv.asia/wishlists</loc>
+        <lastmod>2024-09-03T07:55:24+06:00</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.8</priority>
     </url>

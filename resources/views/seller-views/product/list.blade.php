@@ -12,7 +12,7 @@
         <!-- Page Title -->
         <div class="mb-4">
             <h2 class="h1 mb-0 text-capitalize d-flex align-items-center gap-2">
-                <img width="20" src="{{asset('/assets/back-end/img/products.png')}}" alt="">
+                <img width="20" src="{{asset('/public/assets/back-end/img/products.png')}}" alt="">
                 {{\App\CPU\translate('Products')}}
                 <span class="badge badge-soft-dark radius-50 fz-14 ml-1">{{ $products->total() }}</span>
             </h2>
@@ -86,7 +86,7 @@
                                     <td>
                                         <a href="{{route('seller.product.view',[$p['id']])}}" class="media align-items-center gap-2 w-max-content">
                                             <img src="{{\App\CPU\ProductManager::product_image_path('thumbnail')}}/{{$p['thumbnail']}}"
-                                                 onerror="this.src='{{asset('/assets/back-end/img/brand-logo.png')}}'"class="avatar border" alt="">
+                                                 onerror="this.src='{{asset('/public/assets/back-end/img/brand-logo.png')}}'"class="avatar border" alt="">
                                             <span class="media-body title-color hover-c1">
                                                 {{\Illuminate\Support\Str::limit($p['name'],30)}}
                                             </span>
@@ -158,7 +158,7 @@
 
                     @if(count($products)==0)
                         <div class="text-center p-4">
-                            <img class="mb-3 w-160" src="{{asset('assets/back-end')}}/svg/illustrations/sorry.svg" alt="Image Description">
+                            <img class="mb-3 w-160" src="{{asset('public/assets/back-end')}}/svg/illustrations/sorry.svg" alt="Image Description">
                             <p class="mb-0">{{\App\CPU\translate('No data to show')}}</p>
                         </div>
                     @endif
@@ -170,8 +170,8 @@
 
 @push('script')
     <!-- Page level plugins -->
-    <script src="{{asset('assets/back-end')}}/vendor/datatables/jquery.dataTables.min.js"></script>
-    <script src="{{asset('assets/back-end')}}/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+    <script src="{{asset('public/assets/back-end')}}/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="{{asset('public/assets/back-end')}}/vendor/datatables/dataTables.bootstrap4.min.js"></script>
 
     <script>
         // Call the dataTables jQuery plugin

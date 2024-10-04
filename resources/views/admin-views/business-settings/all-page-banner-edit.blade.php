@@ -13,7 +13,7 @@
         <!-- Page Title -->
         <div class="pb-2">
             <h2 class="h1 mb-0 text-capitalize d-flex align-items-center gap-2">
-                <img src="{{asset('/assets/back-end/img/business-setup.png')}}" alt="">
+                <img src="{{asset('/public/assets/back-end/img/business-setup.png')}}" alt="">
                 {{translate('All_Pages_Banner')}}
             </h2>
         </div>
@@ -76,8 +76,8 @@
                                             <img
                                                 class="ratio-6:1"
                                                 id="mbImageviewer"
-                                                src="{{asset('storage/banner')}}/{{json_decode($banner['value'])->image}}"
-                                                onerror="this.src='{{asset('assets/front-end/img/placeholder.png')}}'"
+                                                src="{{asset('storage/app/public/banner')}}/{{json_decode($banner['value'])->image}}"
+                                                onerror="this.src='{{asset('public/assets/front-end/img/placeholder.png')}}'"
                                                 alt="banner image"/>
                                         </center>
                                     </div>

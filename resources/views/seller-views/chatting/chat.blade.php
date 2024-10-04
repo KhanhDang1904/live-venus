@@ -7,7 +7,7 @@
         <!-- Page Title -->
         <div class="mb-3">
             <h2 class="h1 mb-0 text-capitalize d-flex align-items-center gap-2">
-                <img src="{{asset('/assets/back-end/img/support-ticket.png')}}" alt="">
+                <img src="{{asset('/public/assets/back-end/img/support-ticket.png')}}" alt="">
                 {{\App\CPU\translate('Chatting_List')}}
             </h2>
         </div>
@@ -20,7 +20,7 @@
                     <div class="card card-body px-0 h-100">
                         <div class="media align-items-center px-3 gap-3 mb-4">
                             <div class="avatar avatar-sm avatar-circle">
-                                <img class="avatar-img" onerror="this.src='{{ asset('assets/front-end/img/image-place-holder.png') }}'" src="{{asset('storage/seller/')}}/{{auth('seller')->user()->image}}" alt="Image Description">
+                                <img class="avatar-img" onerror="this.src='{{ asset('public/assets/front-end/img/image-place-holder.png') }}'" src="{{asset('storage/app/public/seller/')}}/{{auth('seller')->user()->image}}" alt="Image Description">
                                 <span class="avatar-status avatar-sm-status avatar-status-success"></span>
                             </div>
                             <div class="media-body">
@@ -54,11 +54,11 @@
                                                 <div class="chat_img avatar avatar-sm avatar-circle">
                                                     <img
                                                         @if (Request::is('seller/messages/chat/customer'))
-                                                            src="{{ asset('storage/profile/'.$chatting->image) }}"
+                                                            src="{{ asset('storage/app/public/profile/'.$chatting->image) }}"
                                                         @else
-                                                            src="{{ asset('storage/delivery-man/'.$chatting->image) }}"
+                                                            src="{{ asset('storage/app/public/delivery-man/'.$chatting->image) }}"
                                                         @endif
-                                                        id="{{$chatting->user_id? $chatting->user_id : $chatting->delivery_man_id}}" onerror="this.src='{{asset('assets/front-end/img/image-place-holder.png')}}'" class="avatar-img avatar-circle">
+                                                        id="{{$chatting->user_id? $chatting->user_id : $chatting->delivery_man_id}}" onerror="this.src='{{asset('public/assets/front-end/img/image-place-holder.png')}}'" class="avatar-img avatar-circle">
                                                     <span class="avatar-satatus avatar-sm-status avatar-status-success"></span>
                                                 </div>
                                                 <div class="chat_ib media-body">
@@ -90,11 +90,11 @@
                                 <div class="avatar avatar-sm avatar-circle">
                                     <img class="avatar-img" id="profile_image"
                                          @if (Request::is('seller/messages/chat/customer'))
-                                         src="{{ asset('storage/profile/'.$chattings_user[0]->image) }}"
+                                         src="{{ asset('storage/app/public/profile/'.$chattings_user[0]->image) }}"
                                          @else
-                                         src="{{ asset('storage/delivery-man/'.$chattings_user[0]->image) }}"
+                                         src="{{ asset('storage/app/public/delivery-man/'.$chattings_user[0]->image) }}"
                                          @endif
-                                         onerror="this.src='{{ asset('assets/front-end/img/image-place-holder.png') }}'" alt="Image Description">
+                                         onerror="this.src='{{ asset('public/assets/front-end/img/image-place-holder.png') }}'" alt="Image Description">
                                     <span class="avatar-status avatar-sm-status avatar-status-success"></span>
                                 </div>
                                 <div class="media-body">

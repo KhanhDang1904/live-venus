@@ -11,7 +11,7 @@
         <!-- Page Title -->
         <div class="mb-3">
             <h2 class="h1 mb-1 text-capitalize d-flex align-items-center gap-2">
-                <img width="20" src="{{asset('/assets/back-end/img/banner.png')}}" alt="">
+                <img width="20" src="{{asset('/public/assets/back-end/img/banner.png')}}" alt="">
                 {{\App\CPU\translate('banner_update_form')}}
             </h2>
         </div>
@@ -127,8 +127,8 @@
                                             <img
                                                 class="ratio-4:1"
                                                 id="mbImageviewer"
-                                                src="{{asset('storage/banner')}}/{{$banner['photo']}}"
-                                                onerror='this.src="{{asset('assets/front-end/img/placeholder.png')}}"'
+                                                src="{{asset('storage/app/public/banner')}}/{{$banner['photo']}}"
+                                                onerror='this.src="{{asset('public/assets/front-end/img/placeholder.png')}}"'
                                                 alt=""/>
                                         </center>
                                         <label for="name" class="mt-3">{{ \App\CPU\translate('Image')}}</label><span

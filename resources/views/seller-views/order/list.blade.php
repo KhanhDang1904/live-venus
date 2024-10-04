@@ -3,7 +3,7 @@
 
 @push('css_or_js')
     <!-- Custom styles for this page -->
-    <link href="{{asset('assets/back-end')}}/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+    <link href="{{asset('public/assets/back-end')}}/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
 @endpush
 
 @section('content')
@@ -11,7 +11,7 @@
     <div class="content container-fluid">
         <div class="d-flex flex-wrap gap-2 align-items-center mb-3">
             <h2 class="h1 mb-0">
-                <img src="{{asset('/assets/back-end/img/all-orders.png')}}" class="mb-1 mr-1" alt="">
+                <img src="{{asset('/public/assets/back-end/img/all-orders.png')}}" class="mb-1 mr-1" alt="">
                 <span class="page-header-title">
                     @if($status =='processing')
                         {{\App\CPU\translate('packaging')}}
@@ -80,7 +80,7 @@
                         <!-- Order Stats -->
                         <a class="order-stats order-stats_pending" href="{{route('seller.orders.list', ['pending', 'from' => $from, 'to' => $to, 'filter' => $filter, 'search' => $search])}}">
                             <div class="order-stats__content">
-                                <img width="20" src="{{asset('/assets/back-end/img/pending.png')}}" alt="">
+                                <img width="20" src="{{asset('/public/assets/back-end/img/pending.png')}}" alt="">
                                 <h6 class="order-stats__subtitle">{{\App\CPU\translate('pending')}}</h6>
                             </div>
                             <span class="order-stats__title">
@@ -93,7 +93,7 @@
                         <!-- Order Stats -->
                         <a class="order-stats order-stats_confirmed" href="{{route('seller.orders.list', ['confirmed', 'from' => $from, 'to' => $to, 'filter' => $filter, 'search' => $search])}}">
                             <div class="order-stats__content">
-                                <img width="20" src="{{asset('/assets/back-end/img/confirmed.png')}}" alt="">
+                                <img width="20" src="{{asset('/public/assets/back-end/img/confirmed.png')}}" alt="">
                                 <h6 class="order-stats__subtitle">{{\App\CPU\translate('confirmed')}}</h6>
                             </div>
                             <span class="order-stats__title">
@@ -106,7 +106,7 @@
                         <!-- Order Stats -->
                         <a class="order-stats order-stats_packaging" href="{{route('seller.orders.list', ['processing', 'from' => $from, 'to' => $to, 'filter' => $filter, 'search' => $search])}}">
                             <div class="order-stats__content">
-                                <img width="20" src="{{asset('/assets/back-end/img/packaging.png')}}" alt="">
+                                <img width="20" src="{{asset('/public/assets/back-end/img/packaging.png')}}" alt="">
                                 <h6 class="order-stats__subtitle">{{\App\CPU\translate('Packaging')}}</h6>
                             </div>
                             <span class="order-stats__title">
@@ -119,7 +119,7 @@
                         <!-- Order Stats -->
                         <a class="order-stats order-stats_out-for-delivery" href="{{route('seller.orders.list', ['out_for_delivery', 'from' => $from, 'to' => $to, 'filter' => $filter, 'search' => $search])}}">
                             <div class="order-stats__content">
-                                <img width="20" src="{{asset('/assets/back-end/img/out-of-delivery.png')}}" alt="">
+                                <img width="20" src="{{asset('/public/assets/back-end/img/out-of-delivery.png')}}" alt="">
                                 <h6 class="order-stats__subtitle">{{\App\CPU\translate('out_for_delivery')}}</h6>
                             </div>
                             <span class="order-stats__title">
@@ -132,7 +132,7 @@
                         <!-- Order Stats -->
                         <a class="order-stats order-stats_delivered" href="{{route('seller.orders.list', ['delivered', 'from' => $from, 'to' => $to, 'filter' => $filter, 'search' => $search])}}">
                             <div class="order-stats__content">
-                                <img width="20" src="{{asset('/assets/back-end/img/delivered.png')}}" alt="">
+                                <img width="20" src="{{asset('/public/assets/back-end/img/delivered.png')}}" alt="">
                                 <h6 class="order-stats__subtitle">{{\App\CPU\translate('delivered')}}</h6>
                             </div>
                             <span class="order-stats__title">
@@ -145,7 +145,7 @@
                         <!-- Order Stats -->
                         <a class="order-stats order-stats_canceled" href="{{route('seller.orders.list', ['canceled', 'from' => $from, 'to' => $to, 'filter' => $filter, 'search' => $search])}}">
                             <div class="order-stats__content">
-                                <img width="20" src="{{asset('/assets/back-end/img/canceled.png')}}" alt="">
+                                <img width="20" src="{{asset('/public/assets/back-end/img/canceled.png')}}" alt="">
                                 <h6 class="order-stats__subtitle">{{\App\CPU\translate('canceled')}}</h6>
                             </div>
                             <span class="order-stats__title">
@@ -158,7 +158,7 @@
                         <!-- Order Stats -->
                         <a class="order-stats order-stats_returned" href="{{route('seller.orders.list', ['returned', 'from' => $from, 'to' => $to, 'filter' => $filter, 'search' => $search])}}">
                             <div class="order-stats__content">
-                                <img width="20" src="{{asset('/assets/back-end/img/returned.png')}}" alt="">
+                                <img width="20" src="{{asset('/public/assets/back-end/img/returned.png')}}" alt="">
                                 <h6 class="order-stats__subtitle">{{\App\CPU\translate('returned')}}</h6>
                             </div>
                             <span class="order-stats__title">
@@ -171,7 +171,7 @@
                         <!-- Order Stats -->
                         <a class="order-stats order-stats_failed" href="{{route('seller.orders.list', ['failed', 'from' => $from, 'to' => $to, 'filter' => $filter, 'search' => $search])}}">
                             <div class="order-stats__content">
-                                <img width="20" src="{{asset('/assets/back-end/img/failed-to-deliver.png')}}" alt="">
+                                <img width="20" src="{{asset('/public/assets/back-end/img/failed-to-deliver.png')}}" alt="">
                                 <h6 class="order-stats__subtitle">{{\App\CPU\translate('failed_to_deliver')}}</h6>
                             </div>
                             <span class="order-stats__title">
@@ -212,7 +212,7 @@
                             <ul class="dropdown-menu dropdown-menu-right">
                                 <li>
                                     <a class="dropdown-item" href="{{ route('seller.orders.order-bulk-export', ['delivery_man_id' => request('delivery_man_id'), 'status' => $status, 'from' => $from, 'to' => $to, 'filter' => $filter, 'search' => $search]) }}">
-                                        <img width="14" src="{{asset('/assets/back-end/img/excel.png')}}" alt="">
+                                        <img width="14" src="{{asset('/public/assets/back-end/img/excel.png')}}" alt="">
                                         {{\App\CPU\translate('Excel')}}
                                     </a>
                                 </li>
@@ -327,7 +327,7 @@
 
                 @if(count($orders)==0)
                     <div class="text-center p-4">
-                        <img class="mb-3 w-160" src="{{asset('assets/back-end')}}/svg/illustrations/sorry.svg" alt="Image Description">
+                        <img class="mb-3 w-160" src="{{asset('public/assets/back-end')}}/svg/illustrations/sorry.svg" alt="Image Description">
                         <p class="mb-0">{{\App\CPU\translate('No data to show')}}</p>
                     </div>
                 @endif
@@ -338,8 +338,8 @@
 
 @push('script')
     <!-- Page level plugins -->
-    <script src="{{asset('assets/back-end')}}/vendor/datatables/jquery.dataTables.min.js"></script>
-    <script src="{{asset('assets/back-end')}}/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+    <script src="{{asset('public/assets/back-end')}}/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="{{asset('public/assets/back-end')}}/vendor/datatables/dataTables.bootstrap4.min.js"></script>
 
     <!-- Page level custom scripts -->
     <script>

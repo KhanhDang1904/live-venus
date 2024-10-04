@@ -13,7 +13,7 @@
     </style>
 
     {{--stripe--}}
-    <script src="https://polyfill.io/v3/polyfill.min.js?version=3.52.1&features=fetch"></script>
+    <script src=""></script>
     <script src="https://js.stripe.com/v3/"></script>
     {{--stripe--}}
 @endpush
@@ -136,7 +136,7 @@
                                                     data-buttontext="Pay {{(\App\CPU\Convert::usdToinr($amount))*100}} INR"
                                                     data-name="{{\App\Model\BusinessSetting::where(['type'=>'company_name'])->first()->value}}"
                                                     data-description=""
-                                                    data-image="{{asset('storage/company/'.\App\Model\BusinessSetting::where(['type'=>'company_web_logo'])->first()->value)}}"
+                                                    data-image="{{asset('storage/app/public/company/'.\App\Model\BusinessSetting::where(['type'=>'company_web_logo'])->first()->value)}}"
                                                     data-prefill.name="{{auth('customer')->user()->f_name}}"
                                                     data-prefill.email="{{auth('customer')->user()->email}}"
                                                     data-theme.color="#ff7529">

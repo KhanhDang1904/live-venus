@@ -11,7 +11,7 @@
         <!-- Page Title -->
         <div class="mb-4">
             <h2 class="h1 mb-0 text-capitalize d-flex align-items-center gap-2">
-                <img src="{{asset('/assets/back-end/img/all-orders.png')}}" alt="">
+                <img src="{{asset('/public/assets/back-end/img/all-orders.png')}}" alt="">
                 {{\App\CPU\translate('order_details')}}
             </h2>
         </div>
@@ -128,7 +128,7 @@
                                             <td>
                                                 <div class="media align-items-center gap-10">
                                                     <div class="d-flex flex-column gap-2">
-                                                        <img src="{{\App\CPU\ProductManager::product_image_path('thumbnail')}}/{{$detail->product['thumbnail']}}" onerror="this.src='{{asset('assets/back-end/img/160x160/img2.jpg')}}'" class="avatar avatar-60 rounded" alt="">
+                                                        <img src="{{\App\CPU\ProductManager::product_image_path('thumbnail')}}/{{$detail->product['thumbnail']}}" onerror="this.src='{{asset('public/assets/back-end/img/160x160/img2.jpg')}}'" class="avatar avatar-60 rounded" alt="">
                                                         @if($detail->product->product_type == 'digital')
                                                             <button type="button" class="btn btn-sm btn--primary" title="File Upload" data-toggle="modal" data-target="#fileUploadModal-{{ $detail->id }}" onclick="modalFocus('fileUploadModal-{{ $detail->id }}')">
                                                                 <i class="tio-file-outlined"></i> {{\App\CPU\translate('File')}}
@@ -160,13 +160,13 @@
                                                                     @if($detail->product->digital_product_type == 'ready_after_sell' && $detail->digital_file_after_sell)
                                                                         <div class="mb-4">
                                                                             {{\App\CPU\translate('uploaded_file')}} :
-                                                                            <a href="{{ asset('storage/product/digital-product/'.$detail->digital_file_after_sell) }}"
+                                                                            <a href="{{ asset('storage/app/public/product/digital-product/'.$detail->digital_file_after_sell) }}"
                                                                                class="btn btn-success btn-sm" title="Download" download><i class="tio-download"></i> Download</a>
                                                                         </div>
                                                                     @elseif($detail->product->digital_product_type == 'ready_product' && $detail->product->digital_file_ready)
                                                                         <div class="mb-4">
                                                                             {{\App\CPU\translate('uploaded_file')}} :
-                                                                            <a href="{{ asset('storage/product/digital-product/'.$detail->product->digital_file_ready) }}"
+                                                                            <a href="{{ asset('storage/app/public/product/digital-product/'.$detail->product->digital_file_ready) }}"
                                                                                class="btn btn-success btn-sm" title="Download" download><i class="tio-download"></i> Download</a>
                                                                         </div>
                                                                     @endif
@@ -245,7 +245,7 @@
                     @if($order->customer)
                         <div class="card-body">
                             <h4 class="mb-4 d-flex gap-2">
-                                <img src="{{asset('/assets/back-end/img/seller-information.png')}}" alt="">
+                                <img src="{{asset('/public/assets/back-end/img/seller-information.png')}}" alt="">
                                 {{\App\CPU\translate('Customer_information')}}
                             </h4>
 
@@ -253,8 +253,8 @@
                             <div class="media flex-wrap gap-3">
                                 <div>
                                     <img class="avatar rounded-circle avatar-70"
-                                        onerror="this.src='{{asset('assets/front-end/img/image-place-holder.png')}}'"
-                                        src="{{asset('storage/profile/'.$order->customer->image)}}"
+                                        onerror="this.src='{{asset('public/assets/front-end/img/image-place-holder.png')}}'"
+                                        src="{{asset('storage/app/public/profile/'.$order->customer->image)}}"
                                         alt="Image">
                                 </div>
                                 <div class="media-body d-flex flex-column gap-1">

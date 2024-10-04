@@ -7,7 +7,7 @@
         <!-- Page Title -->
         <div class="mb-3">
             <h2 class="h1 mb-0 text-capitalize d-flex gap-2 align-items-center">
-                <img width="20" src="{{asset('/assets/back-end/img/customer_review.png')}}" alt="">
+                <img width="20" src="{{asset('/public/assets/back-end/img/customer_review.png')}}" alt="">
                 {{\App\CPU\translate('customer_reviews')}}
             </h2>
         </div>
@@ -183,9 +183,9 @@
                                             @if($review->attachment)
                                                 <div class="d-flex flex-wrap">
                                                     @foreach (json_decode($review->attachment) as $img)
-                                                        <a href="{{ asset('storage/review') }}/{{ $img }}"
+                                                        <a href="{{ asset('storage/app/public/review') }}/{{ $img }}"
                                                            data-lightbox="mygallery">
-                                                            <img width="60" height="60" src="{{ asset('storage/review') }}/{{ $img }}"
+                                                            <img width="60" height="60" src="{{ asset('storage/app/public/review') }}/{{ $img }}"
                                                                  alt="Image">
                                                         </a>
                                                     @endforeach

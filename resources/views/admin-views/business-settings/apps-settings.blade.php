@@ -3,8 +3,8 @@
 @section('title', \App\CPU\translate('app_settings'))
 
 @push('css_or_js')
-    <link href="{{ asset('assets/select2/css/select2.min.css')}}" rel="stylesheet">
-    <link href="{{ asset('assets/back-end/css/custom.css')}}" rel="stylesheet">
+    <link href="{{ asset('public/assets/select2/css/select2.min.css')}}" rel="stylesheet">
+    <link href="{{ asset('public/assets/back-end/css/custom.css')}}" rel="stylesheet">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 @endpush
 
@@ -13,7 +13,7 @@
         <!-- Page Title -->
         <div class="pb-2">
             <h2 class="h1 mb-0 text-capitalize d-flex align-items-center gap-2">
-                <img src="{{asset('/assets/back-end/img/business-setup.png')}}" alt="">
+                <img src="{{asset('/public/assets/back-end/img/business-setup.png')}}" alt="">
                 {{\App\CPU\translate('Business_Setup')}}
             </h2>
         </div>
@@ -114,8 +114,8 @@
 @endsection
 
 @push('script')
-    <script src="{{asset('assets/back-end')}}/js/tags-input.min.js"></script>
-    <script src="{{ asset('assets/select2/js/select2.min.js')}}"></script>
+    <script src="{{asset('public/assets/back-end')}}/js/tags-input.min.js"></script>
+    <script src="{{ asset('public/assets/select2/js/select2.min.js')}}"></script>
     <script>
 
         $("#customFileUploadShop").change(function () {
